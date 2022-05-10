@@ -19,11 +19,7 @@
 
 <h3>My Trending：</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaalacat&show_icons=true&locale=en&layout=compact" alt="vaalacat" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaalacat&show_icons=true&locale=en" alt="vaalacat" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaalacat&" alt="vaalacat" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaalacat&show_icons=true&locale=en&layout=compact" alt="vaalacat" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=vaalacat&show_icons=true&locale=en" alt="vaalacat" /></p>
 
 <h3>My Github:</h3>
 
