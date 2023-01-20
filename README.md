@@ -16,11 +16,6 @@
 
 <p><img src="https://wakatime.com/share/@257c62e0-804f-44fd-bee1-aab7cb1fadb5/dfb3034f-31ef-46f6-aef9-07492ff47f5e.svg" width="50%"/><img src="https://wakatime.com/share/@257c62e0-804f-44fd-bee1-aab7cb1fadb5/158bde3e-c96a-4a4f-bbe7-872e7195ec73.svg" width="50%"/></p>
 
-
-<h3>My Trending：</h3>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaalacat&show_icons=true&locale=en&layout=compact" alt="vaalacat" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=vaalacat&show_icons=true&locale=en" alt="vaalacat" /></p>
-
 <h3>My Github:</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaalacat&row=2&column=3" alt="vaalacat" /></a> </p>
