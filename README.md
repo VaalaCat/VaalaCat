@@ -1,22 +1,46 @@
 <h1 align="center">Hi 👋, I'm Vaala Cat</h1>
 <h3 align="center">A FAKE Half Stack Programmer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaalacat&label=Profile%20views&color=0e75b6&style=flat" alt="vaalacat" /> </p>
+---
 
-- 📫 How to reach me **me@vaala.cat**
 
-- 📄 Know about my experiences [https://vaala.cat](https://vaala.cat)
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=vaalacat&label=Profile%20views&color=0e75b6&style=flat" alt="vaalacat profile views" />
+</p>
 
-- ⚡ I'm **A Strange Cat~**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+## 👋 About Me
 
-<h3>Recent Activity</h3>
 
-<p><img src="https://wakatime.com/share/@257c62e0-804f-44fd-bee1-aab7cb1fadb5/dfb3034f-31ef-46f6-aef9-07492ff47f5e.svg" width="50%"/><img src="https://wakatime.com/share/@257c62e0-804f-44fd-bee1-aab7cb1fadb5/158bde3e-c96a-4a4f-bbe7-872e7195ec73.svg" width="50%"/></p>
+-   📫 How to reach me: **me@vaala.cat**
+-   📄 Know about my experiences: [https://vaala.cat](https://vaala.cat)
+-   ⚡ I'm: **A Strange Cat~**
 
-<h3>My Github:</h3>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaalacat&row=2&column=3" alt="vaalacat" /></a> </p>
+## 💻 Tech Stack
 
+<p align="center">
+    <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white" alt="Go" />
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="NodeJS" />
+    <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" />
+    <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+    <img src="https://img.shields.io/badge/wireguard-%2388171A.svg?style=flat-square&logo=wireguard&logoColor=white" alt="Wireguard" />
+    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=flat-square&logo=ansible&logoColor=white" alt="Ansible" />
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React" />
+</p>
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=VaalaCat&theme=default&hide_border=false&include_all_commits=true&count_private=false" alt="VaalaCat's GitHub Stats" />
+    <img src="https://nirzak-streak-stats.vercel.app/?user=VaalaCat&theme=default&hide_border=false" alt="VaalaCat's GitHub Streak" />
+</p>
+
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=VaalaCat&theme=default&no-bg=true&margin-w=4&column=7&title=-Reviews,-PullRequest" alt="VaalaCat's GitHub Trophies" />
+</p>
